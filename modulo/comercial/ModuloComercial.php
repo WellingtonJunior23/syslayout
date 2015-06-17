@@ -37,7 +37,7 @@
 					<li class="dropdown">
 						<div class="btn-group">
 							<button type="button" class="btn btn-primary">
-								<span class="glyphicon glyphicon-list-alt"></span> Relat�rio
+								<span class="glyphicon glyphicon-list-alt"></span> Relatório
 							</button>
 							<button type="button" class="btn btn-primary dropdown-toggle"
 								data-toggle="dropdown">

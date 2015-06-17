@@ -10,11 +10,11 @@
 				</button>
 
 				<div class="btn-group">
-					<button class="btn btn-default btn-lg">
+					<button class="btn btn-default ">
 						<span class="glyphicon glyphicon-th-large"></span> <?php echo($configGlobal['projectName']);?>
 					</button>
 					<button data-toggle="dropdown"
-						class="btn btn-default btn-lg dropdown-toggle">
+						class="btn btn-default  dropdown-toggle">
 						<span class="glyphicon glyphicon-arrow-down"></span>
 					</button>
 					<ul class="dropdown-menu">
@@ -35,7 +35,7 @@
 			</div>
 			<div class="nav navbar-right collapse navbar-collapse"
 				id="navbar-collapse-1">
-				<button class="btn btn-default btn-lg ">
+				<button class="btn btn-default  ">
 					<span class="glyphicon glyphicon-off"></span> Sair
 				</button>
 			</div>

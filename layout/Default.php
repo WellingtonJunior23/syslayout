@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<meta charset="ISO-8859-1">
+<meta charset="UTF-8">
 <title>Home</title>
 <link rel="stylesheet" href="css/bootstrap.css">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -60,7 +60,7 @@
 			</div>
 			<div class="panel-body">
 
-				<!-- Painel de ações -->
+				<!-- Painel de aï¿½ï¿½es -->
 
 				<ul class="nav nav-pills">
 					<li>
@@ -76,7 +76,7 @@
 					<li class="dropdown">
 						<div class="btn-group">
 							<button type="button" class="btn btn-primary">
-								<span class="glyphicon glyphicon-list-alt"></span> Relatório
+								<span class="glyphicon glyphicon-list-alt"></span> Relatï¿½rio
 							</button>
 							<button type="button" class="btn btn-primary dropdown-toggle"
 								data-toggle="dropdown">
@@ -98,7 +98,7 @@
 					</li>
 				</ul>
 
-				<!-- Fim Painel de ações -->
+				<!-- Fim Painel de aï¿½ï¿½es -->
 
 			</div>
 		</div>
@@ -180,7 +180,7 @@
 								<div class="btn-group">
 									<button type="button" class="btn btn-default dropdown-toggle"
 										data-toggle="dropdown">
-										Opções <span class="caret"></span>
+										Opï¿½ï¿½es <span class="caret"></span>
 									</button>
 									<ul class="dropdown-menu" role="menu">
 										<li><a href="#"><span class="glyphicon glyphicon-pencil"></span>
@@ -333,13 +333,13 @@
 					</button>
 
 
-					<p class="navbar-text">..: SGP - Sistema De Gestão Portaria
-						[Tecnologia da Informação] :..</p>
+					<p class="navbar-text">..: SGP - Sistema De Gestï¿½o Portaria
+						[Tecnologia da Informaï¿½ï¿½o] :..</p>
 
 				</div>
 				<div class="nav navbar-right collapse navbar-collapse" id="este">
 					<button class="btn btn-default btn-lg">
-						<span class="glyphicon glyphicon-user"></span> Usuário
+						<span class="glyphicon glyphicon-user"></span> Usuï¿½rio
 					</button>
 				</div>
 

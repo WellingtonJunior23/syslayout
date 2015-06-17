@@ -6,15 +6,15 @@ date_default_timezone_set('America/Sao_Paulo');
 
 $configGlobal = array();
 
-$configGlobal['projectName'] = 'Layout';
+$configGlobal['projectName'] = 'Menu';
 
-$configGlobal['systemName'] = '..:: Outra coisa::..';
+$configGlobal['systemName'] = '..:: Layout Padrão ::..';
 
 $configGlobal['comercial'] = 'Comercial';
 
-$configGlobal['administracao'] = 'Administracao';
+$configGlobal['administracao'] = 'Administração';
 
-$configGlobal['tituloRodape'] = '..:: New Layout ::..';
+$configGlobal['tituloRodape'] = '..:: TECNOLOGIA DA INFORMAÇÃO ::..';
 
 /* Usado para indicar a pasta raiz do projeto*/
 $configGlobal['path'] = 'layout';
